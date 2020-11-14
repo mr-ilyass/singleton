@@ -4,6 +4,15 @@
 
 > simple explanation with example of singleton design pattern in java
 
+## purpose of Singleton
+
+The purpose of the singleton class is to control object creation, limiting the number of objects to only one. The singleton allows only one entry point to create the new instance of the class. Singletons are often useful where we have to control the resources, such as database connections or sockets.
+
+
+There are many ways this can be done in Java. All these ways differs in their implementation of the pattern, but in the end, they all achieve the same end result of a single instance.
+
+In this repo i described only 3 ways : Eger, lazy & threadsafe
+
 ## Order
 
 1- Eager 
