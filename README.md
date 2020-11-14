@@ -11,7 +11,7 @@ The purpose of the singleton class is to control object creation, limiting the n
 
 There are many ways this can be done in Java. All these ways differs in their implementation of the pattern, but in the end, they all achieve the same end result of a single instance.
 
-In this repo i described only 3 ways : Eger, lazy & threadsafe
+In this repo i describe only 3 ways : Eger, lazy & threadsafe
 
 ## Order
 
@@ -53,4 +53,3 @@ Give a ⭐️ if this project helped you!
 
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
